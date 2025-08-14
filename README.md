@@ -7,12 +7,6 @@ This repository presents a single-notebook project that classifies retinal image
 ## Directory Structure
 
 ```
-Input_Files/
-  eye-images/
-    1_normal/
-    2_cataract/
-    2_glaucoma/
-
 Scripts/
   7BBG1005_Coursework.ipynb
 ```
